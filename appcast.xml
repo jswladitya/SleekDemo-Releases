@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SleekDemo</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 28 Oct 2026 21:04:22 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 1.0.0</h2>
+<p>The first release of SleekDemo for Mac.</p>
+<ul>
+  <li><strong>Recorder</strong> — screen or window, system audio, microphone and camera, with a live camera preview.</li>
+  <li><strong>Smooth camera motion</strong> — spring-based zooms with motion blur and a jitter-free follow camera.</li>
+  <li><strong>Auto zooms from your clicks</strong>, camera cutouts that shrink while zoomed, and on-device captions.</li>
+  <li><strong>Export</strong> to MP4 or GIF, and automatic updates.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v1.0.0/SleekDemo-1.0.0.dmg" length="31664740" type="application/octet-stream" sparkle:edSignature="rTlay0bTgmejgxiEqZMJdli6IMA+sdOxaARKor8slWjz+6HtK5BAQ5OVYZPmHrwW/Kl2mA0kk+YoJgSpFcNhBg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: S7+XzVBKHfN+Fe5CTL52Sj7NkxqodqH6mTe1VYKrY5OXAl5xyP0V0Nfsjn++F8JDGuNGQPbzxRfR3VQ5Ah9MDg==
+length: 1706
+-->
