@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.2.0</title>
+            <pubDate>Sun, 15 Nov 2026 18:43:44 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.2.0</h2>
+<p>Smarter zooms that pan with you, a voice that sounds clean, camera layouts and a lot of polish.</p>
+<ul>
+  <li><strong>Smart zoom</strong> — zooms on what you do, glides with your pointer and steps out for page changes and pauses.</li>
+  <li><strong>Camera layouts</strong> — webcam bubble, full-screen camera, side by side or screen only, animated.</li>
+  <li><strong>Enhance Voice</strong> — background noise and room echo removed on your Mac.</li>
+  <li><strong>Better captions</strong>, <strong>area recording</strong> and <strong>animated backgrounds</strong>.</li>
+  <li>Fixed: exports stalling, Cancel and Quit during export; smoother preview.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.2.0/SleekDemo-2.2.0.dmg" length="32042306" type="application/octet-stream" sparkle:edSignature="JqmoW5iL/pyuAB1FJyftDb8OFzGHMKQZHNTBpyLNIlva5lAsUIaIfzOWhAH5kcM11rXMP1Stepid484IDW6iDQ=="/>
+        </item>
+        <item>
             <title>2.1.0</title>
             <pubDate>Sun, 15 Nov 2026 17:56:32 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -46,6 +65,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: lSnR18izzaede4yXiEEmMA1QQrwod8tWvS7BQj/KoXwfhTxxksE6gjxvYM1FlsmXQ4q/Ffk6RavaCK0IVpVpBQ==
-length: 3237
+edSignature: TNve3k4pj4KhIN/kkHpB+uSy0iB33Py3wxzRQcqVCp7RHIoG/KaCWGz7zBEaBqEQJxsrZVZAPCBjZ6jYdhaxCQ==
+length: 4674
 -->
