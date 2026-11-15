@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.2.1</title>
+            <pubDate>Sun, 15 Nov 2026 19:10:59 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.2.1</h2>
+<p>A reliability update.</p>
+<ul>
+  <li><strong>Export</strong> — cancel never leaves a half-finished file; temporary files are always cleaned up.</li>
+  <li><strong>Quit during export</strong> now stops the export cleanly.</li>
+  <li><strong>Captions</strong> from your enhanced voice are in sync; special words work without Return.</li>
+  <li><strong>Camera layouts</strong> look right with a circle webcam; <strong>smart zoom</strong> times page changes precisely.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.2.1/SleekDemo-2.2.1.dmg" length="32051498" type="application/octet-stream" sparkle:edSignature="X3oOdibdWR1IY57LBsowGmJp2p0WW1If3FLmPDzIVQmo2GA4Ua5PRIzcsEwLNY36KGMFKtOQj88IevY38i/dCA=="/>
+        </item>
+        <item>
             <title>2.2.0</title>
             <pubDate>Sun, 15 Nov 2026 18:43:44 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -44,27 +62,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.1.0/SleekDemo-2.1.0.dmg" length="31707159" type="application/octet-stream" sparkle:edSignature="72rxH6LvZpOAoZwr301lCtPC6zdk1ho/r2UBD9xqvLJm1TG3JPEFh4ercvq4vvOcb0mrAa92iCW14mgyEO08Ag=="/>
         </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Wed, 28 Oct 2026 21:07:46 +0530</pubDate>
-            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SleekDemo 2.0.0</h2>
-<p>The first release of SleekDemo for Mac.</p>
-<ul>
-  <li><strong>Recorder</strong> — screen or window, system audio, microphone and camera, with a live camera preview.</li>
-  <li><strong>Smooth camera motion</strong> — spring-based zooms with motion blur and a jitter-free follow camera.</li>
-  <li><strong>Auto zooms from your clicks</strong>, camera cutouts that shrink while zoomed, and on-device captions.</li>
-  <li><strong>Export</strong> to MP4 or GIF, and automatic updates.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.0.0/SleekDemo-2.0.0.dmg" length="31665301" type="application/octet-stream" sparkle:edSignature="e9Aju3aA9S2rHM6lY1Pw02NZYvi9IEHNrDcPtUVS0e+Ybc0UZBBmSkRXEEeOFQOEHFvrBAyco4VIOuq04KpNBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: TNve3k4pj4KhIN/kkHpB+uSy0iB33Py3wxzRQcqVCp7RHIoG/KaCWGz7zBEaBqEQJxsrZVZAPCBjZ6jYdhaxCQ==
-length: 4674
+edSignature: arkVutMuh80pCe5EEnQZtePX3YjxkCW9sR7FbJNWv86QwFYvjhGJiTrQOVZqZ1lem6+egMj8LvzwG9rgD6cWAA==
+length: 4656
 -->
