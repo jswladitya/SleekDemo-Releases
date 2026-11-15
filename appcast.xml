@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.5.0</title>
+            <pubDate>Sun, 15 Nov 2026 22:08:50 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.5.0</h2>
+<p>Cut the dead air in one click, and show your app on an iPhone.</p>
+<ul>
+  <li><strong>Trim Silences</strong>: removes the pauses where nothing is said and nothing happens on screen.</li>
+  <li><strong>iPhone frame</strong>: put your recording on an iPhone, in Natural or Black titanium.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.5.0/SleekDemo-2.5.0.dmg" length="32390273" type="application/octet-stream" sparkle:edSignature="YmM0A20MwGFyAXT408I6c3EaKLZ7io28BGKdXpA0WT1q+F8A2W4+K3X3UKMrgi7KFhzE9v+02j06sLVROZxoDQ=="/>
+        </item>
+        <item>
             <title>2.4.0</title>
             <pubDate>Sun, 15 Nov 2026 21:29:44 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -42,27 +58,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.3.1/SleekDemo-2.3.1.dmg" length="32151586" type="application/octet-stream" sparkle:edSignature="TMKgH1KtyR/vewSKWm54JJqBRMj4Ww1STecO7ehVeFKssI9yHTmh1n92EO9eu5ra91+/fvxzQlQr5Y1KeKnOAQ=="/>
         </item>
-        <item>
-            <title>2.3.0</title>
-            <pubDate>Sun, 15 Nov 2026 20:24:10 +0530</pubDate>
-            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SleekDemo 2.3.0</h2>
-<p>A MacBook Pro frame, camera layouts that look right in every format, and a calmer editor.</p>
-<ul>
-  <li><strong>MacBook Pro frame</strong> in Silver or Space Black (Style › Frame).</li>
-  <li><strong>Side by side, redesigned</strong>: your whole screen and a natural camera card, centred; stacked in square and vertical videos.</li>
-  <li><strong>Smoother layout changes</strong>: the camera grows out of its bubble and the screen glides into place.</li>
-  <li><strong>Fixes</strong>: the editor no longer jumps when you click in the sidebar; exports can't overwrite your original; trimming keeps your cuts; recording reports a full disk right away and keeps camera footage.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.3.0/SleekDemo-2.3.0.dmg" length="32159821" type="application/octet-stream" sparkle:edSignature="+6LuouGbl8OHu2DIt9VAPtbIw420OeU5ZD/uRStEwRenDBRKIlwagvOwgE+Ta4+MrjDx4SD1vwlv5CUZaDwkDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: f9AUdR1/uYEdELsIdMllzyhLtJPiB8Yc2Lp6O4CIIZBMNf0bG5nlpF4kTc+h7ylYfDp7PUpjlq17M5eH/Ej5Dg==
-length: 4532
+edSignature: gfJhg6YqOl5rUR1OO2vGml/GnhihnqHq5rluPLFKvXSqZotQvxRYpStIwFFycPaard91tN8d8z3vvJ8Pgn3nDw==
+length: 4141
 -->
