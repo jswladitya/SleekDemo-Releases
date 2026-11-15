@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.3.1</title>
+            <pubDate>Sun, 15 Nov 2026 20:48:18 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.3.1</h2>
+<p>Vertical videos that fill the frame, and a fixed keystroke display.</p>
+<ul>
+  <li><strong>Fill Vertical Frame</strong>: your screen fills vertical videos and follows your pointer.</li>
+  <li><strong>Zooms always fill the frame</strong>: no background or MacBook frame around a zoomed screen.</li>
+  <li><strong>Captions for phones</strong>: bigger in vertical videos, above the strip phone apps cover.</li>
+  <li><strong>Fixes</strong>: the keystroke display is upright, and new recordings show shortcuts only.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.3.1/SleekDemo-2.3.1.dmg" length="32151586" type="application/octet-stream" sparkle:edSignature="TMKgH1KtyR/vewSKWm54JJqBRMj4Ww1STecO7ehVeFKssI9yHTmh1n92EO9eu5ra91+/fvxzQlQr5Y1KeKnOAQ=="/>
+        </item>
+        <item>
             <title>2.3.0</title>
             <pubDate>Sun, 15 Nov 2026 20:24:10 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -41,28 +59,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.2.1/SleekDemo-2.2.1.dmg" length="32051498" type="application/octet-stream" sparkle:edSignature="X3oOdibdWR1IY57LBsowGmJp2p0WW1If3FLmPDzIVQmo2GA4Ua5PRIzcsEwLNY36KGMFKtOQj88IevY38i/dCA=="/>
         </item>
-        <item>
-            <title>2.2.0</title>
-            <pubDate>Sun, 15 Nov 2026 18:43:44 +0530</pubDate>
-            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SleekDemo 2.2.0</h2>
-<p>Smarter zooms that pan with you, a voice that sounds clean, camera layouts and a lot of polish.</p>
-<ul>
-  <li><strong>Smart zoom</strong> — zooms on what you do, glides with your pointer and steps out for page changes and pauses.</li>
-  <li><strong>Camera layouts</strong> — webcam bubble, full-screen camera, side by side or screen only, animated.</li>
-  <li><strong>Enhance Voice</strong> — background noise and room echo removed on your Mac.</li>
-  <li><strong>Better captions</strong>, <strong>area recording</strong> and <strong>animated backgrounds</strong>.</li>
-  <li>Fixed: exports stalling, Cancel and Quit during export; smoother preview.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.2.0/SleekDemo-2.2.0.dmg" length="32042306" type="application/octet-stream" sparkle:edSignature="JqmoW5iL/pyuAB1FJyftDb8OFzGHMKQZHNTBpyLNIlva5lAsUIaIfzOWhAH5kcM11rXMP1Stepid484IDW6iDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 3uMqRFiFcRBo8rFOwT2QZLnH6H278wkVNOJxz4kuF51U/xmc7d2Z0GimE4qX2NfCFhBIZQNh/5P5ZAGTN3h3Cw==
-length: 4575
+edSignature: yVF3ehz4mGJShAdWKYYOLkNe9UJkcAyrIolo34gY/kY7wjJeyOJECRyiyUqiOSoZovz6zZCko8JeaUBoYk2cBA==
+length: 4430
 -->
