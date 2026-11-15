@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.4.0</title>
+            <pubDate>Sun, 15 Nov 2026 21:29:44 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.4.0</h2>
+<p>Change what's behind you, style presets, music, and an important fix.</p>
+<ul>
+  <li><strong>Behind You</strong>: blur your room, use a clean studio backdrop, or remove it and leave just you.</li>
+  <li><strong>Style presets</strong>: save your look, apply it in one click, and use it for new recordings.</li>
+  <li><strong>Music</strong>: a track under your video that fades and dips while you talk.</li>
+  <li><strong>Private crash reports</strong> you choose to send.</li>
+  <li><strong>Fix</strong>: a crash in vertical videos with Fill, or with the MacBook frame.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.4.0/SleekDemo-2.4.0.dmg" length="32346338" type="application/octet-stream" sparkle:edSignature="Gi1qtEhtzE7vqGdw+tcArrii2qrWrXO2ic9q9wGPHWbEZ1gDK1vZrP0WPB8VbbIKRzN7g/EmePqwwf1BrCuZDw=="/>
+        </item>
+        <item>
             <title>2.3.1</title>
             <pubDate>Sun, 15 Nov 2026 20:48:18 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -41,27 +60,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.3.0/SleekDemo-2.3.0.dmg" length="32159821" type="application/octet-stream" sparkle:edSignature="+6LuouGbl8OHu2DIt9VAPtbIw420OeU5ZD/uRStEwRenDBRKIlwagvOwgE+Ta4+MrjDx4SD1vwlv5CUZaDwkDg=="/>
         </item>
-        <item>
-            <title>2.2.1</title>
-            <pubDate>Sun, 15 Nov 2026 19:10:59 +0530</pubDate>
-            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SleekDemo 2.2.1</h2>
-<p>A reliability update.</p>
-<ul>
-  <li><strong>Export</strong> — cancel never leaves a half-finished file; temporary files are always cleaned up.</li>
-  <li><strong>Quit during export</strong> now stops the export cleanly.</li>
-  <li><strong>Captions</strong> from your enhanced voice are in sync; special words work without Return.</li>
-  <li><strong>Camera layouts</strong> look right with a circle webcam; <strong>smart zoom</strong> times page changes precisely.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.2.1/SleekDemo-2.2.1.dmg" length="32051498" type="application/octet-stream" sparkle:edSignature="X3oOdibdWR1IY57LBsowGmJp2p0WW1If3FLmPDzIVQmo2GA4Ua5PRIzcsEwLNY36KGMFKtOQj88IevY38i/dCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: yVF3ehz4mGJShAdWKYYOLkNe9UJkcAyrIolo34gY/kY7wjJeyOJECRyiyUqiOSoZovz6zZCko8JeaUBoYk2cBA==
-length: 4430
+edSignature: f9AUdR1/uYEdELsIdMllzyhLtJPiB8Yc2Lp6O4CIIZBMNf0bG5nlpF4kTc+h7ylYfDp7PUpjlq17M5eH/Ej5Dg==
+length: 4532
 -->
