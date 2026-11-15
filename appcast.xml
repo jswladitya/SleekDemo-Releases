@@ -1,8 +1,30 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SleekDemo</title>
+        <item>
+            <title>2.1.0</title>
+            <pubDate>Sun, 15 Nov 2026 17:56:32 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.1.0</h2>
+<p>A sharp, smooth pointer you can restyle after recording, a rebuilt zoom camera, clip editing and a new look.</p>
+<ul>
+  <li><strong>A pointer that looks great</strong> — redrawn razor-sharp at any zoom; resize, smooth, click rings, bounce, click sounds and idle hiding.</li>
+  <li><strong>Smoother zooms</strong> that chain into pans, follow your pointer and keep it clear of your webcam.</li>
+  <li><strong>Smarter auto zoom</strong> from clicks, drags, typing and menus.</li>
+  <li><strong>Clip editing</strong> — split (⌘B), cut, trim and change speed.</li>
+  <li><strong>Pixelate and spotlight</strong> overlays, <strong>keystrokes on screen</strong>, and export up to 4K at 30 or 60 fps.</li>
+  <li>A calmer, Apple-style editor and a new app icon.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.1.0/SleekDemo-2.1.0.dmg" length="31707159" type="application/octet-stream" sparkle:edSignature="72rxH6LvZpOAoZwr301lCtPC6zdk1ho/r2UBD9xqvLJm1TG3JPEFh4ercvq4vvOcb0mrAa92iCW14mgyEO08Ag=="/>
+        </item>
         <item>
             <title>2.0.0</title>
             <pubDate>Wed, 28 Oct 2026 21:07:46 +0530</pubDate>
@@ -19,10 +41,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <li><strong>Export</strong> to MP4 or GIF, and automatic updates.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.0.0/SleekDemo-2.0.0.dmg" length="31665301" type="application/octet-stream" sparkle:edSignature="e9Aju3aA9S2rHM6lY1Pw02NZYvi9IEHNrDcPtUVS0e+Ybc0UZBBmSkRXEEeOFQOEHFvrBAyco4VIOuq04KpNBw=="></enclosure>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.0.0/SleekDemo-2.0.0.dmg" length="31665301" type="application/octet-stream" sparkle:edSignature="e9Aju3aA9S2rHM6lY1Pw02NZYvi9IEHNrDcPtUVS0e+Ybc0UZBBmSkRXEEeOFQOEHFvrBAyco4VIOuq04KpNBw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: Yr31FNQec12DzFF9g1ut3K5+oHluJ03GHzDa6RUz5qKt9iqnRqysc1edy7/hqnS2e1W/yy8qexkpo+DIyEMCAw==
-length: 1706
+</rss>
+<!-- sparkle-signatures:
+edSignature: lSnR18izzaede4yXiEEmMA1QQrwod8tWvS7BQj/KoXwfhTxxksE6gjxvYM1FlsmXQ4q/Ffk6RavaCK0IVpVpBQ==
+length: 3237
 -->
