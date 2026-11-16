@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.8.0</title>
+            <pubDate>Mon, 16 Nov 2026 11:15:06 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.8.0</h2>
+<p>Hide what's private, even when you zoom in.</p>
+<ul>
+  <li><strong>Blur that stays put</strong>: blur, mosaic and spotlight boxes now stick to your screen, so zooms and pans never reveal what they hide.</li>
+  <li><strong>Blur button</strong>: hide an email, a key or a notification in one click from the timeline.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.8.0/SleekDemo-2.8.0.dmg" length="32548592" type="application/octet-stream" sparkle:edSignature="FSfI5VbwnfxbC/Mn3T8RyzuhKMSNzGGfj9i+UJ3zmi1WInUHx65zM0r71xPUg9UVPaLSk38pMdtTJnOLjjswBw=="/>
+        </item>
+        <item>
             <title>2.7.0</title>
             <pubDate>Mon, 16 Nov 2026 10:42:22 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -38,25 +54,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.6.0/SleekDemo-2.6.0.dmg" length="32503339" type="application/octet-stream" sparkle:edSignature="IkdgZ6lGKqXD2cE/WZhB8Y/hJAdD9DIxJQ93z1FEwMLn+ODq8nynlMOBAXaSX4b8G4AOyCGmsz/mWtL+Iz4eAQ=="/>
         </item>
-        <item>
-            <title>2.5.0</title>
-            <pubDate>Sun, 15 Nov 2026 22:08:50 +0530</pubDate>
-            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SleekDemo 2.5.0</h2>
-<p>Cut the dead air in one click, and show your app on an iPhone.</p>
-<ul>
-  <li><strong>Trim Silences</strong>: removes the pauses where nothing is said and nothing happens on screen.</li>
-  <li><strong>iPhone frame</strong>: put your recording on an iPhone, in Natural or Black titanium.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.5.0/SleekDemo-2.5.0.dmg" length="32390273" type="application/octet-stream" sparkle:edSignature="YmM0A20MwGFyAXT408I6c3EaKLZ7io28BGKdXpA0WT1q+F8A2W4+K3X3UKMrgi7KFhzE9v+02j06sLVROZxoDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 08MPAvhTJMkmCb5fFUpmcpD1VrYWoKa7odbDiEBho6awJFtAACezUfBzD0B8QVgJQr77//QoOhuZqz8uWbm9Bw==
-length: 3771
+edSignature: a6MTXUwrmNV8WKgX8hGJxuyAjYRCpYvuScUKA0FEqEUwY1OGWwWZ+IdHynSFS66eoiKBmuKwcLylq33GVM44Cw==
+length: 3800
 -->
