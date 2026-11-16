@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.11.0</title>
+            <pubDate>Mon, 16 Nov 2026 16:15:47 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.11.0</h2>
+<p>Built-in music, voiceover, and settings for individual clips.</p>
+<ul>
+  <li><strong>Built-in music</strong>: four original pieces, made on your Mac and free to use anywhere.</li>
+  <li><strong>Voiceover</strong>: type a line and one of your Mac's voices speaks it at the playhead.</li>
+  <li><strong>Clip volume</strong>: turn down or mute a single clip.</li>
+  <li><strong>Pointer per clip</strong>: hide it, or show it exactly as you moved it.</li>
+  <li><strong>Loupe button</strong> on the timeline, next to Zoom.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.11.0/SleekDemo-2.11.0.dmg" length="33513408" type="application/octet-stream" sparkle:edSignature="AzL/CflUwT6+8DO9gwNb92QtMC8eCUFZ6oliIrlAcE+yBfqjy0V9B/r78DpCH5Fa+aBTpRSjL3gKLhzTsyGQAQ=="/>
+        </item>
+        <item>
             <title>2.10.0</title>
             <pubDate>Mon, 16 Nov 2026 13:02:15 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -46,25 +65,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.9.0/SleekDemo-2.9.0.dmg" length="32732639" type="application/octet-stream" sparkle:edSignature="8Ch37c3pFhEOUmITiQFDXFxNsP72/4uWg/gufqeVurMHBP3MBmSFGvFiwIT4lwYq4dec2ThBftAPL09584SpAg=="/>
         </item>
-        <item>
-            <title>2.8.0</title>
-            <pubDate>Mon, 16 Nov 2026 11:15:06 +0530</pubDate>
-            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SleekDemo 2.8.0</h2>
-<p>Hide what's private, even when you zoom in.</p>
-<ul>
-  <li><strong>Blur that stays put</strong>: blur, mosaic and spotlight boxes now stick to your screen, so zooms and pans never reveal what they hide.</li>
-  <li><strong>Blur button</strong>: hide an email, a key or a notification in one click from the timeline.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.8.0/SleekDemo-2.8.0.dmg" length="32548592" type="application/octet-stream" sparkle:edSignature="FSfI5VbwnfxbC/Mn3T8RyzuhKMSNzGGfj9i+UJ3zmi1WInUHx65zM0r71xPUg9UVPaLSk38pMdtTJnOLjjswBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: B80bp3obxv48WDPU2xbd6CnMphBHjLa5k/+8fhA2K8lgYATjm12yRX3Y8Qo/1vlRM9U6+5fWfqRi5nXH/LYDDA==
-length: 4592
+edSignature: 4AlEGl2qk/PeGZ27p3M4bbaIpQBURkX5lEc4J3kNpPAB5956qVa/3jCVRKKFVT15VKmIioqEcE/5EPL2gAXNAg==
+length: 4801
 -->
