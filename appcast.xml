@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SleekDemo</title>
         <item>
+            <title>2.10.0</title>
+            <pubDate>Mon, 16 Nov 2026 13:02:15 +0530</pubDate>
+            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>SleekDemo 2.10.0</h2>
+<p>Edit your video by its words, a liquid-glass loupe, automatic privacy, and a lot more control.</p>
+<ul>
+  <li><strong>Edit by transcript</strong>: delete words to cut them from the video, and remove every "um" in one step.</li>
+  <li><strong>Liquid-glass loupe</strong>: a frameless magnifier that bends the picture at its rim.</li>
+  <li><strong>Automatic privacy</strong>: emails, numbers, keys and faces stay covered, found on your Mac.</li>
+  <li><strong>Command Menu</strong> (⌘K), <strong>screenshots</strong> and <strong>Copy Frame</strong> (⇧⌘C).</li>
+  <li><strong>Made For</strong> export presets, <strong>ProRes</strong> export and a file-size estimate.</li>
+  <li><strong>Speed Up Typing</strong>, <strong>instant zooms</strong>, animated titles and shapes.</li>
+  <li>New cursor, camera, shadow and recording options, and smoother camera motion.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.10.0/SleekDemo-2.10.0.dmg" length="33240663" type="application/octet-stream" sparkle:edSignature="/vW/1/aP4TZ1s7HMlYpIi04aaR/9gVBibDESxKHOf/xYkbNsVVw50wVS8d5qYSRwfhjJPbC/mvKcbglFTZ15Dg=="/>
+        </item>
+        <item>
             <title>2.9.0</title>
             <pubDate>Mon, 16 Nov 2026 11:32:31 +0530</pubDate>
             <link>https://github.com/jswladitya/SleekDemo-Releases</link>
@@ -41,25 +62,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.8.0/SleekDemo-2.8.0.dmg" length="32548592" type="application/octet-stream" sparkle:edSignature="FSfI5VbwnfxbC/Mn3T8RyzuhKMSNzGGfj9i+UJ3zmi1WInUHx65zM0r71xPUg9UVPaLSk38pMdtTJnOLjjswBw=="/>
         </item>
-        <item>
-            <title>2.7.0</title>
-            <pubDate>Mon, 16 Nov 2026 10:42:22 +0530</pubDate>
-            <link>https://github.com/jswladitya/SleekDemo-Releases</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>SleekDemo 2.7.0</h2>
-<p>Show just your iPhone.</p>
-<ul>
-  <li><strong>iPhone Only</strong>: for app demos, show your recorded iPhone on its own, big and centred — perfect for vertical videos.</li>
-  <li><strong>Smarter Trim Silences</strong>: quiet moments where you're tapping through your iPhone are kept.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/SleekDemo-Releases/releases/download/v2.7.0/SleekDemo-2.7.0.dmg" length="32522563" type="application/octet-stream" sparkle:edSignature="UO0eMWz6HqG8QQU19udBvQ6tvD9B+gNuHGXQpTOvhlN+O91LnVmN5pfirrvwLCpPYq1H46/gJL5htpynBUwIBQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 3eHzE5HBzwTFFJpummoOG0IJzUO+tJ06OIFZH9uGuAe6XfD1pTYWviJNsv1NUj20Rb1ehb3VRY//pa2cpB48Dg==
-length: 4008
+edSignature: B80bp3obxv48WDPU2xbd6CnMphBHjLa5k/+8fhA2K8lgYATjm12yRX3Y8Qo/1vlRM9U6+5fWfqRi5nXH/LYDDA==
+length: 4592
 -->
